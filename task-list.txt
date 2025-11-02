@@ -1,3 +1,5 @@
 # TODO List
 - Learn Git basics
 - Create a sample project
+- Make feature branch
+- Create pull request
